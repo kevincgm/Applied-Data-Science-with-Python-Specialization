@@ -5,7 +5,7 @@ The 5 courses in this University of Michigan specialization introduce learners t
 Current progress:
 1) Introduction to Data Science in Python - Completed
 2) Applied Plotting, Charting and Data Representation - Completed
-3) Applied Machine Learning - In Progress
+3) Applied Machine Learning - Completed
 4) Applied Text Minig - Yet to Start
 5) Applied Social Netowrk Analysis in Python - Yet to Start
 
